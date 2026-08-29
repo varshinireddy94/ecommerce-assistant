@@ -14,7 +14,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
-from src.pipeline import handle_query
+from backend.src.pipeline import handle_query
 
 app = FastAPI(title="ShopSphere Support Assistant API")
 

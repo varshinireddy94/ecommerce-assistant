@@ -8,8 +8,9 @@ honest fallback message instead of crashing or hallucinating - see
 FALLBACKS below and section 7 of the project spec.
 """
 
-from src import router, rag, llm
-from src.tools import TOOL_REGISTRY, TOOL_SCHEMAS
+from backend.src import llm, rag
+from backend.src import router
+from backend.src.tools import TOOL_REGISTRY, TOOL_SCHEMAS
 
 CLARIFICATION_MESSAGE = (
     "I'm not totally sure what you're asking. Could you rephrase, or let "

@@ -8,7 +8,7 @@ Flow:  Streamlit -> Router -> SQL / RAG / Hybrid / Small talk -> Llama 3.3-70B -
 
 import streamlit as st
 
-from src.pipeline import handle_query
+from backend.src.pipeline import handle_query
 
 st.set_page_config(page_title="ShopSphere Support Assistant", page_icon="🛍️")
 

@@ -13,7 +13,7 @@ Rules enforced in this file (see task spec, section "Database Security"):
 import sqlite3
 from pathlib import Path
 
-from src.validators import (
+from backend.src.validators import (
     is_valid_id,
     clean_id,
     is_valid_category,

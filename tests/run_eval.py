@@ -29,8 +29,9 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from src import router, rag, llm  # noqa: E402
-from src.pipeline import handle_query  # noqa: E402
+from backend.src import llm, rag
+from backend.src import router  # noqa: E402
+from backend.src.pipeline import handle_query  # noqa: E402
 
 DATASET_PATH = Path(__file__).resolve().parent / "eval_dataset.json"
 
@@ -92,7 +93,7 @@ def eval_tool_selection(dataset, groq_available):
         print("Skipped (GROQ_API_KEY not set).")
         return 0, 0
 
-    from src.tools import TOOL_SCHEMAS
+    from backend.src.tools import TOOL_SCHEMAS
 
     total, correct = 0, 0
     for item in dataset["sql"]:
