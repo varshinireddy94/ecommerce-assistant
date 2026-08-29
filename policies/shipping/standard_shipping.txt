@@ -1,0 +1,39 @@
+SHOPSPHERE STANDARD SHIPPING POLICY
+
+ShopSphere provides an estimated delivery date when an order is placed. The estimated date represents the expected delivery time and is not necessarily a guaranteed delivery date.
+
+After an order is placed, the seller may need to confirm inventory, process the order, and prepare the package for shipment.
+
+Orders may move through the following stages:
+
+Order placed
+Order confirmed
+Seller processing
+Shipped
+Out for delivery
+Delivered
+Cancelled
+
+The exact status displayed to the customer depends on information received from the seller and delivery partner.
+
+Actual delivery time can vary because of seller processing time, logistics availability, destination, weather, public holidays, transportation disruptions, and other unforeseen circumstances.
+
+Customers should use the order ID to check the latest available order status.
+
+Shipping charges may depend on product type, destination, seller, package size, delivery speed, and other applicable factors.
+
+The applicable shipping charge should normally be displayed during checkout.
+
+Some products may qualify for free shipping while others may carry a separate shipping fee.
+
+Customers should verify their delivery address and contact information before placing an order.
+
+An address can generally be changed only while the order remains at a stage where the seller or logistics partner can still modify the destination.
+
+Once an order has progressed to shipment or dispatch, an address change may no longer be possible.
+
+Tracking information may include shipment confirmation, dispatch information, estimated delivery date, out-for-delivery status, and delivery confirmation.
+
+Tracking information may not update immediately after every physical movement of a package.
+
+The actual delivery date recorded by the delivery partner is used when determining the beginning of a product's return period unless an investigation establishes that the delivery record is incorrect.

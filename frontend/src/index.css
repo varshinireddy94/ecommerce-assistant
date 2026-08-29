@@ -1,0 +1,51 @@
+:root {
+  --bg: #f6f5f1;
+  --surface: #ffffff;
+  --ink: #1c2321;
+  --muted: #6b7269;
+  --border: #e4e1d8;
+
+  --accent: #2f6f5e;
+  --accent-soft: #e4efea;
+
+  --route-policy: #8a6d3b;
+  --route-policy-soft: #f4ecdb;
+  --route-order: #2f6f5e;
+  --route-order-soft: #e4efea;
+  --route-hybrid: #5b4b8a;
+  --route-hybrid-soft: #ebe7f5;
+  --route-smalltalk: #6b7269;
+  --route-smalltalk-soft: #ececea;
+  --route-unclear: #b5484b;
+  --route-unclear-soft: #f6e4e4;
+
+  --font-display: "Fraunces", serif;
+  --font-body: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: "IBM Plex Mono", monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+}
+
+button {
+  font-family: inherit;
+}
+
+::selection {
+  background: var(--accent-soft);
+}

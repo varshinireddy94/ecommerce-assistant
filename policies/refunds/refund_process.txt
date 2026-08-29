@@ -1,0 +1,58 @@
+SHOPSPHERE REFUND PROCESS POLICY
+
+A refund is issued when an order or product qualifies for a refund under the applicable cancellation, return, damaged-product, delivery, or seller-failure policy.
+
+A refund is different from a replacement or exchange. If a product is covered by a replacement-only policy and a valid replacement is available, the customer may not automatically receive a monetary refund.
+
+A customer may become eligible for a refund when:
+
+- An eligible order is cancelled before shipment
+- A seller cancels a prepaid order
+- An eligible returned product passes inspection
+- A wrong or defective product cannot be replaced
+- An order is confirmed lost or incorrectly delivered
+- A product-specific policy explicitly provides a refund
+
+For returned products, the refund is normally initiated after the returned product has been received and inspected.
+
+The inspection may verify that the returned item matches the original order and satisfies the applicable return conditions.
+
+If a return is rejected because the product does not meet the applicable return requirements, a refund may not be issued.
+
+If only part of an order is cancelled or returned, the customer generally receives a partial refund corresponding to the eligible item and applicable charges.
+
+For example, if an order contains three products and one eligible product is returned, the refund normally relates to the returned product rather than the entire order.
+
+If a seller ships the wrong product or a product is confirmed defective or damaged during transit, ShopSphere may refund applicable shipping charges.
+
+For customer-preference returns, shipping charges may not be refundable and return shipping costs may be deducted where applicable.
+
+If an order is confirmed as lost before delivery and cannot be fulfilled, an eligible refund may be initiated.
+
+Customers should not assume that an order is lost merely because tracking information has not changed for a short period. ShopSphere may investigate the shipment before approving the refund.
+
+For wrong deliveries, ShopSphere may arrange a replacement or refund after verification.
+
+Customers may be asked to provide photographs, packaging details, or other information to support the claim.
+
+After a refund is approved, ShopSphere initiates the refund according to the applicable payment process.
+
+The time required for the money to appear in the customer's account can depend on the payment method and financial institution.
+
+A refund marked as initiated may still require additional processing by the customer's bank or payment provider.
+
+Possible refund states include:
+
+Refund not applicable
+Refund pending approval
+Refund approved
+Refund initiated
+Refund completed
+
+Customers can use their order ID to request the current refund status.
+
+ShopSphere may investigate suspicious or duplicate refund claims.
+
+Submitting false information, returning a different product, or repeatedly making unsupported claims may result in refusal of the claim and restriction of future return privileges.
+
+The final refund amount may depend on the product price, discounts, shipping charges, return deductions, partial refunds, and other applicable adjustments.

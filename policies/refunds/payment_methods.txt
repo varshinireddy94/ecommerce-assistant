@@ -1,0 +1,35 @@
+SHOPSPHERE REFUND PAYMENT METHODS POLICY
+
+Refunds are generally sent to the original payment method used for the transaction.
+
+For prepaid card, bank, wallet, or other electronic payments, the refund may be processed through the corresponding payment channel.
+
+The time required for a refund to appear in the customer's account depends partly on the payment provider and financial institution.
+
+ShopSphere considers a refund processed once the refund transaction has been successfully initiated, even if the customer's bank takes additional time to reflect the amount.
+
+For cash-on-delivery orders, the customer may be required to provide valid bank account or other eligible payment details before a refund can be processed.
+
+The customer is responsible for providing accurate refund information.
+
+ShopSphere is not responsible for delays caused by incorrect bank account or payment information supplied by the customer.
+
+If the original payment method cannot accept the refund, ShopSphere may provide an alternative refund mechanism according to applicable procedures.
+
+For eligible prepaid cancellations before shipment, the amount paid may be refunded through the original payment method.
+
+If a seller cancels a prepaid order because the product is unavailable or cannot be fulfilled, the eligible amount paid by the customer will generally be refunded.
+
+For cash-on-delivery orders cancelled before payment and delivery, no payment refund is normally required because payment was not collected.
+
+If payment has already been collected and the order is subsequently cancelled or returned, the applicable refund procedure will apply.
+
+Shipping charges may be treated differently depending on the reason for cancellation or return.
+
+When the seller ships the wrong product or a product is confirmed defective or damaged during transit, applicable shipping charges may be refunded.
+
+For customer-preference returns, shipping charges may not be refundable.
+
+Customers should use their order ID when contacting ShopSphere regarding a refund.
+
+The order ID allows the support system to identify the relevant order, payment status, refund amount, and refund processing state.

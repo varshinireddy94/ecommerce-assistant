@@ -1,0 +1,33 @@
+SHOPSPHERE ORDER CANCELLATION POLICY
+
+Customers may request cancellation of an order while the order is still at a stage where cancellation can be processed.
+
+Cancellation availability depends on the current order status.
+
+Orders that have not yet been processed or shipped are generally more likely to be eligible for cancellation.
+
+Once an order has been handed over to the delivery partner, cancellation through the normal cancellation process may no longer be available.
+
+For orders that are already shipped, customers may need to wait for delivery and use the applicable return process instead.
+
+A cancellation request does not guarantee that an order will be cancelled. The system or seller must confirm that the order has not progressed beyond the stage at which cancellation is possible.
+
+If a cancellation is successfully processed before shipment, the customer will generally receive a refund for the eligible amount paid.
+
+If the order has not yet been paid for, such as an unpaid cash-on-delivery order, cancellation normally does not require a payment refund.
+
+If payment has already been collected, the applicable refund process will be initiated after successful cancellation.
+
+Customers should provide the order ID when requesting cancellation.
+
+If only some items in a multi-item order need to be cancelled, the customer may be able to cancel individual items depending on the order's current processing status.
+
+Cancellation may not be possible after an item has already been packed, shipped, or handed over to the delivery partner.
+
+If cancellation is unavailable, the customer may be able to refuse delivery where permitted or return the product after delivery according to the applicable return policy.
+
+Products with special handling, customized products, or products already prepared specifically for the customer may have additional cancellation restrictions.
+
+The actual order status in ShopSphere's order database is used to determine whether cancellation can currently be processed.
+
+A cancellation request should therefore be evaluated using the latest available order status rather than only the original order date.

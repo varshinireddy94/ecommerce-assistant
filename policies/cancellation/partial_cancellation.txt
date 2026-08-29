@@ -1,0 +1,29 @@
+SHOPSPHERE PARTIAL ORDER CANCELLATION POLICY
+
+An order containing multiple products may be eligible for partial cancellation if individual items have not progressed beyond the cancellation stage.
+
+For example, if an order contains three products and only one product has already been shipped, the remaining unshipped products may potentially be cancelled.
+
+Partial cancellation depends on whether the individual item can still be stopped before shipment.
+
+If an individual item has already been shipped, that item generally cannot be cancelled through the normal cancellation process.
+
+The customer may instead need to wait for delivery and use the applicable return procedure.
+
+If an item is successfully cancelled before shipment and payment has already been collected, the eligible amount for that item will be refunded.
+
+The refund amount may account for discounts, promotional offers, shipping charges, and other applicable adjustments.
+
+Cancelling one item does not automatically cancel the remaining items in the order.
+
+Each item may have a separate processing and shipment status.
+
+Customers should provide the order ID and identify the specific product they want to cancel.
+
+If multiple quantities of the same product were ordered, partial quantity cancellation may be possible depending on the order's current processing status.
+
+If an item has already entered shipment processing, cancellation may no longer be available.
+
+The latest item-level order information should be checked before confirming a partial cancellation.
+
+If partial cancellation is unavailable, the customer may be able to return the relevant item after delivery according to the applicable return policy.
